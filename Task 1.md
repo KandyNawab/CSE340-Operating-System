@@ -30,3 +30,31 @@ Chapter 1: Introduction
 <img width="1015" height="897" alt="image" src="https://github.com/user-attachments/assets/c77a754e-4cee-48b4-b53a-29cfdd898741" />
 
 Link to Mind Map for Chapter 1- https://mm.tt/map/3785796019?t=27PoCar8SO
+
+Chapter 2: Operating-System Structures
+
+  Topics:
+  
+    Operating-System Services- Purpose, Operating-System Services (User Interface, Program Execution, I/O Operations, File Systems, Communication, Resource Allocation, Accounting, Protection and Security, Error Detection, Logging)
+    
+    User and Operating-System Interface- Command Interpreters,  Graphical User Interface,  Touch-Screen Interface, Choice of Interface
+    
+    System Calls- File Copy Program Example, Application Programming Interface (Run-Time Environment), Types of System Calls (Process Control, File Management, Device Management, Information Maintenance, Communication, Protection)
+    
+    System Services
+    
+    Linkers and Loaders- Relocatable Object Fil, Linker Purpose, Loader Purpose, Dynamically Linked Libraries
+    
+    Why Applications Are Operating-System Specific
+
+    Operating-System Design and Implementation- Design Goals (User Goals, System Goals), Mechanism, Policy, Implementation
+
+    Operating-System Structure- Monolithic Structure, Layered Approach, Microkernels, Loadable Kernel Modules, Hybrid Systems (macOS and iOS, Android)
+
+    Building and Booting an Operating System- Operating-System Generation, System Boot
+
+    Operating-System Debugging- Failure Analysis (Log Fil, Core Dump, Crash, Crash Dump), Counters (Pre-Process, System-Wide), Tracing (Pre-Process, System-Wide), BPF Compiler Collection
+
+<img width="1192" height="905" alt="image" src="https://github.com/user-attachments/assets/d68d9148-95d1-4054-8eef-4a2e0f35f80f" />
+
+Link to Mind Map for Chapter 2- https://mm.tt/map/3785818763?t=TArkSCKpAE

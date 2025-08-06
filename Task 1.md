@@ -28,3 +28,5 @@ Chapter 1: Introduction
     Computing Environments- Traditional, Mobile, Client –Server, Peer-to-Peer, Cloud
 
 <img width="1015" height="897" alt="image" src="https://github.com/user-attachments/assets/c77a754e-4cee-48b4-b53a-29cfdd898741" />
+
+Link to Mind Map for Chapter 1- https://mm.tt/map/3785796019?t=27PoCar8SO
